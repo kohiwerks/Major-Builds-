@@ -9,3 +9,7 @@ DC 5.5x2.1 Panel Mount Jack
 2pcs M6x50mm Screws 
 2pcs M6 Thumbnut
 8mm to 7mm Motor Coupler w/ Grub Screws 
+
+(INSTRUCTIONS)
+
+Print the body
