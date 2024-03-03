@@ -1,6 +1,6 @@
 Parts Required: 
 
-32GP-31ZY 160RPM 7KG-CM RATED Motor
+32GP-31ZY 30RPM 34KG-CM RATED (124KG-CM STALL) Motor
 SPDT Rocker Switch 12mm Panel Mount Diameter
 20mm Glass Fuse Holder
 20mm Glass Fuse 3AMP
